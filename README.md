@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Naoki ⚡️
+# Hi there 👋  I'm Naoki 🥚
 
 <!--
 **EggNao/EggNao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
