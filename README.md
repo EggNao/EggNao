@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Naoki ⚡️
+# Hi there 👋 I'm Naoki ⚡️
 
 <!--
 **EggNao/EggNao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 💫　GitHub stats<br>
+## 💫　GitHub stats<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EggNao&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-### ✌️ Top Langs <br>
+## ✌️ Top Langs <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EggNao&show_icons=true&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🏆 Trophy<br>
+## 🏆 GitHub Trophy<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=EggNao&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
