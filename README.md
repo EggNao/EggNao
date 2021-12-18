@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophy<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=EggNao&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## GitHub Profile Summary Cards
+## ♣︎ GitHub Profile Summary Cards
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EggNao&theme=monokai)
 
