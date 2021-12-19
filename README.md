@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 💫 GitHub Stats<br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EggNao&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-## ✌️ Top Langs <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EggNao&show_icons=true&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=EggNao&show_icons=true&theme=onedark">
+  <img height="170"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EggNao&show_icons=true&theme=onedark&layout=compact">
+</div>
 
 ## 🏆 GitHub Trophy<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=EggNao&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
