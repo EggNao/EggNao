@@ -44,4 +44,6 @@ Here are some ideas to get you started:
 
 ## 🃏 GitHub Profile Summary Cards
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EggNao&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EggNao&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EggNao&theme=monokai)
 
