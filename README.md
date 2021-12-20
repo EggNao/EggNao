@@ -1,4 +1,4 @@
-# Hi there 👋  I'm Naoki 🥚
+# Hi there 👋  I'm Naoki 🥚🐣✌️
 
 <!--
 **EggNao/EggNao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 <p align="left"> 
   <a href="https://github.com/EggNao/EggNao/">
     <img src="https://komarev.com/ghpvc/?username=EggNao" alt="EggNao" />
-  </a>
-  <a href="http://twitter.com/EggNao">
-    <img height="20" src="https://img.shields.io/twitter/follow/EggNao?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/EggNao">
     <img height="20" src="https://img.shields.io/github/followers/EggNao?label=follow&logo=github&style=flat" />
