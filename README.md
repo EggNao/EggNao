@@ -1,4 +1,5 @@
 # Hi there 👋  I'm Naoki 🥚
+
 <!--
 **EggNao/EggNao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 💫 GitHub Stats<br>
 
 <p align="left"> 
   <a href="https://github.com/EggNao/EggNao/">
@@ -29,6 +29,10 @@ Here are some ideas to get you started:
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a>
 </p>
+
+## 💫 GitHub Stats<br>
+
+
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=EggNao&count_private=true&show_icons=true&theme=onedark">
