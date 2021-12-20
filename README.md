@@ -22,9 +22,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/EggNao">
     <img height="20" src="https://img.shields.io/github/followers/EggNao?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://stackoverflow.com/users/5720201/EggNao">
-    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
-  </a>
 </p>
 
 ## 💫 GitHub Stats<br>
