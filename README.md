@@ -34,12 +34,12 @@ Here are some ideas to get you started:
 </div>
 
 ## 🏆 GitHub Trophy<br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=EggNao&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=EggNao&count_private=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🃏 GitHub Profile Summary Cards
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EggNao&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EggNao&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EggNao&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EggNao&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EggNao&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EggNao&count_private=true&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EggNao&count_private=true&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EggNao&count_private=true&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EggNao&count_private=true&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EggNao&count_private=true&theme=monokai)
 
