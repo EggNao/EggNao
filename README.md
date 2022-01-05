@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left"> 
-  <a href="https://github.com/EggNao/EggNao/">
-    <img src="https://komarev.com/ghpvc/?username=EggNao" alt="EggNao" />
-  </a>
+<p align="left">
   <a href="https://github.com/EggNao">
     <img height="20" src="https://img.shields.io/github/followers/EggNao?label=follow&logo=github&style=flat" />
   </a>
