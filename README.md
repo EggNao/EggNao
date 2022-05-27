@@ -26,17 +26,17 @@ Here are some ideas to get you started:
 
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=EggNao&count_private=true&show_icons=true&theme=onedark">
-  <img height="170"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EggNao&count_private=true&show_icons=true&theme=onedark&layout=compact">
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=EggNao&count_private=true&show_icons=true&theme=nord">
+  <img height="170"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EggNao&count_private=true&show_icons=true&theme=nord&layout=compact">
 </div>
 
 ## 🏆 GitHub Trophy<br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=EggNao&count_private=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=EggNao&count_private=true&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🃏 GitHub Profile Summary Cards
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EggNao&count_private=true&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EggNao&count_private=true&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EggNao&count_private=true&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EggNao&count_private=true&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EggNao&count_private=true&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EggNao&count_private=true&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EggNao&count_private=true&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EggNao&count_private=true&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EggNao&count_private=true&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EggNao&count_private=true&theme=nord_dark)
 
